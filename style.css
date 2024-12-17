@@ -1,0 +1,55 @@
+body{background-color: lightgray;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+
+
+h1{border-radius: 7px;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 0.7cm;
+    border-style:groove;
+    padding: 7px auto ;
+    
+
+}
+
+#search{
+    background-color: silver;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.search_bttn{
+    background-color: orangered;
+    border-radius: 5px;
+}
+#reviewsHd{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    align-items: center;
+    
+
+}
+
+#reviews{
+    background-color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    text-align: left;
+    
+}
+#submit{
+    background-color: chartreuse;
+    border-radius: 7ex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
