@@ -61,7 +61,7 @@ submitBtn.addEventListener("click", (e) => {
         reviewItem.textContent = reviewText;
         reviewDisplay.appendChild(reviewItem);
         reviewInput.value = "";
-        alert("The Review added Successfuly!");
+        alert("The Review was added Successfuly!");
         
     }
 });
