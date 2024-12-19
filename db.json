@@ -1,1 +1,266 @@
-{}
+{
+    "status": "ok",
+    "totalResults": 53,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "David Goldman",
+        "title": "Honda and Nissan are in merger talks - CNN",
+        "description": "Honda and Nissan are discussing a possible merger, bringing together two Japanese automaking titans that have recently fallen on hard times.",
+        "url": "https://www.cnn.com/2024/12/17/business/honda-nissan-merger-talks/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2085680893.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-12-18T04:31:00Z",
+        "content": "Honda and Nissan are discussing a possible merger, potentially bringing together two Japanese automaking titans that have recently fallen on hard times.\r\nThe companies said in statement that they hav… [+2600 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Lisa Kailai Han",
+        "title": "Stock futures are little changed after Dow posts nine-day losing streak; traders await Fed decision: Live updates - CNBC",
+        "description": "The Federal Reserve is widely expected to lower rates by a quarter point on Wednesday, but the big event is the central bank’s summary of economic projections.",
+        "url": "https://www.cnbc.com/2024/12/17/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108077017-1734452579388-NYSE_Traders-OB-Photo-20241217-CC-PRESS-8.jpg?v=1734452791&w=1920&h=1080",
+        "publishedAt": "2024-12-18T01:34:00Z",
+        "content": "U.S. stock futures were little changed on Tuesday night as traders looked ahead to the Federal Reserve's December interest rate decision.\r\nFutures linked to the Dow Jones Industrial Average added 57 … [+1993 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Sharon Goldman",
+        "title": "Hundreds of OpenAI's current and ex-employees are about to get a huge payday by cashing out up to $10 million each in a private stock sale - Fortune",
+        "description": "A group of current and former OpenAI employees are eligible to cash out up to $10 million worth of shares as part of the company’s $1.6 billion tender offer to SoftBank, a source has told Fortune.",
+        "url": "https://fortune.com/2024/12/17/hundreds-openai-employees-10-million-payday-softbank-stock-tender-offer-details/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-2153474303-e1727373782574.jpg?resize=1200,600",
+        "publishedAt": "2024-12-18T00:40:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Lim Hui Jie",
+        "title": "Kioxia shares climb slightly on debut in Tokyo after $800 million IPO - CNBC",
+        "description": "The company had raised 120 billion yen in its IPO, exercising a overallotment option. Shares were priced at 1,455 yen apiece.",
+        "url": "https://www.cnbc.com/2024/12/18/kioxia-shares-climb-slightly-on-debut-in-tokyo-after-800-million-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108076721-1734398659466-gettyimages-2167190248-AFP_36EH7R2.jpeg?v=1734398671&w=1920&h=1080",
+        "publishedAt": "2024-12-18T00:17:00Z",
+        "content": "Shares of Japan computer memory manufacturer Kioxia rose 2.69% on its debut in Tokyo after the company raised over just over 120 billion yen ($800 million) in its initial public offering.\r\nShares wer… [+1540 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "James Franey",
+        "title": "Dow hits worst streak in more than 40 years as Fed eyes slower rate cuts in 2025 with incoming Trump admin - New York Post ",
+        "description": "A CNBC poll showed there is uneasiness about Trump’s threat of slapping tariffs on foreign goods.",
+        "url": "https://nypost.com/2024/12/17/business/dow-hits-worst-streak-in-more-than-40-years-as-fed-eyes-slower-rate-cuts-in-2025-with-incoming-trump-admin/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-4j51kt4wp-1734479064681.jpg?quality=75&strip=all&1734461092&w=1024",
+        "publishedAt": "2024-12-17T23:45:00Z",
+        "content": "The Dow Jones Industrial Average slid to its worst losing streak in more than four decades as investor hopes that the Federal Reserve will aggressively cut interest rates next year continued to dimin… [+4262 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Grubhub pays $25 million for allegedly tricking customers and lying to drivers - The Verge",
+        "description": "Grubhub agreed to pay $25 million to the Federal Trade Commission to settle claims that it misled drivers, customers, and restaurants.",
+        "url": "https://www.theverge.com/2024/12/17/24323708/grubhub-ftc-settlement-25-million-fine-deceiving-customers",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/gAno5c4b-OqSvKHsUxaJ41cYQpU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25730801/STK323_GRUBHUB_A.jpg",
+        "publishedAt": "2024-12-17T23:03:34Z",
+        "content": "Grubhub pays $25 million for allegedly tricking customers and lying to drivers\r\nGrubhub pays $25 million for allegedly tricking customers and lying to drivers\r\n / According to FTC chair Lina Khan, Gr… [+2981 chars]"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Giovanna Bellotti Azevedo, Vinicius Andrade, Ezra Fieser",
+        "title": "Brazil Traders ‘Sell First, Ask Later’ as Panic Sweeps Markets - Bloomberg",
+        "description": "First it was a collapse in the currency. Now the rest of Brazil’s financial markets are in the cross-hairs as investors lose faith in the government’s ability to contain a deepening fiscal crisis.",
+        "url": "https://www.bloomberg.com/news/articles/2024-12-17/brazil-traders-sell-first-ask-later-as-panic-sweeps-markets",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPqsikFCfzBg/v1/1200x800.jpg",
+        "publishedAt": "2024-12-17T22:26:43Z",
+        "content": "First it was a collapse in the currency. Now the rest of Brazils financial markets are in the cross-hairs as investors lose faith in the governments ability to contain a deepening fiscal crisis.\r\nThe… [+461 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investopedia"
+        },
+        "author": "Michael Bromberg",
+        "title": "S&P 500 Gains and Losses Today: Health Care Stocks Fall as Trump Eyes 'Middlemen' - Investopedia",
+        "description": "The S&P 500 slid 0.4% on Tuesday, Sept. 17, as stocks faltered ahead of Wednesday's Federal Reserve's interest rate announcement.",
+        "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-health-care-stocks-fall-as-trump-eyes-middlemen-8763010",
+        "urlToImage": "https://www.investopedia.com/thmb/da47nBHkdVs2i-uBT-QjtTX4oxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_HumanaBuilding_GettyImages-148448576-4f80a4a42be344558c9f3f7df7094384.jpg",
+        "publishedAt": "2024-12-17T22:10:51Z",
+        "content": "\u003Cul\u003E\u003Cli\u003EThe S&amp;P 500 slid 0.4% on Tuesday, Sept. 17, as stocks faltered ahead of Wednesday's Federal Reserve's interest rate announcement.\u003C/li\u003E\u003Cli\u003EHumana shares fell as pharmacy benefit managers f… [+3264 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Julie Bort",
+        "title": "Insight VC describes Databricks’ wild $10B deal and the bad advice the CEO ignored - TechCrunch",
+        "description": "It’s been a wild week for investors clawing their way into Databricks' record-breaking $10 billion fund raising, one of the VCs told TechCrunch.",
+        "url": "https://techcrunch.com/2024/12/17/insight-vc-describes-databricks-wild-10b-deal-and-the-bad-advice-the-ceo-ignored/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1177951659.jpg?resize=1200,800",
+        "publishedAt": "2024-12-17T22:10:06Z",
+        "content": "Its been a wild week for investors clawing their way into Databricks’ record-breaking $10 billion fundraising, one of the VCs leading the deal told TechCrunch.\r\nThere were calls that went well late i… [+3526 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investopedia"
+        },
+        "author": "Taylor Tompkins",
+        "title": "The December Federal Reserve Meeting Started Tuesday—What You Need to Know - Investopedia",
+        "description": "The Federal Reserve's policy committee kicked off its two-day meeting Tuesday amid expectations the central bank will cut interest rates for the third straight time. Here's what you need to know.",
+        "url": "https://www.investopedia.com/the-december-2024-federal-reserve-meeting-started-tuesday-what-you-need-to-know-8762953",
+        "urlToImage": "https://www.investopedia.com/thmb/daEa8DySFXG63kcmaF7ZT8oVsLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2156668429-11429f9fa65d45238374855e6a562ee0.jpg",
+        "publishedAt": "2024-12-17T22:06:22Z",
+        "content": "\u003Cul\u003E\u003Cli\u003EThe Federal Reserve's Open Markets Committee kicked off its two-day meeting Tuesday.\u003C/li\u003E\u003Cli\u003EThe Fed is widely expected to cut the key federal funds rate by a quarter percentage point this we… [+3519 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Jennifer Gould",
+        "title": "NYC food industry begs for exemption to traffic congestion toll, warns prices will spike: ‘People will stop going out’ - New York Post ",
+        "description": "A coalition of more than 100 businesses and associations sent a letter to Hochul expressing their concerns about the toll on all vehicles below 60th Street, which is set to begin Jan. 5.",
+        "url": "https://nypost.com/2024/12/17/business/nyc-food-industry-begs-for-exemption-to-traffic-congestion-toll-warns-prices-will-spike-people-will-stop-going-out/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-smkac4ui8-1734473033373.jpg?quality=75&strip=all&1734455048&w=1024",
+        "publishedAt": "2024-12-17T22:05:00Z",
+        "content": "New York Citys food industry leaders begged Gov. Kathy Hochul for an exemption from her controversial congestion pricing plan warning that the fee will lead to higher prices for consumers.\r\nA coaliti… [+3799 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Rebecca Szkutak",
+        "title": "Salesforce plans to hire 2,000 people to sell its AI products - TechCrunch",
+        "description": "Salesforce releases the second generation of its AI agents in February 2025 and has received 9,000 referrals for these positions.",
+        "url": "https://techcrunch.com/2024/12/17/salesforce-plans-to-hire-2000-people-to-sell-its-ai-products/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Marc-Benioff-DSC03546.jpg?resize=1200,800",
+        "publishedAt": "2024-12-17T22:01:05Z",
+        "content": "Cloud software giant Salesforce is looking to hire thousands of new salespeople to sell its AI tools to customers.\r\nThe company plans to hire 2,000 new sales representatives, according to CNBC, which… [+642 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SFGate"
+        },
+        "author": "Madeline Wells",
+        "title": "Turns out everyone in SF didn't need to throw away their black spatulas - SFGATE",
+        "description": "The viral study, which found alarming levels of toxic flame retardants in black-colored plastic household items, contained an error.",
+        "url": "https://www.sfgate.com/food/article/throw-away-black-spatulas-sf-19986362.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/46/33/34/26851121/3/rawImage.jpg",
+        "publishedAt": "2024-12-17T21:49:01Z",
+        "content": "A viral study about black plastic kitchen utensils contained a mathematical error.\r\nKinga KrzeminskaGetty Images\r\nDid you read that black spatulas were poisoning you and everyone you love and then th… [+2459 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-12-17T21:32:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": "ALLISON GATLIN, Investor's Business Daily",
+        "title": "Teva Catapults 26% After Scoring A Win In Inflammatory Disease - Investor's Business Daily",
+        "description": "Teva and Sanofi are partnered on a drug to treat inflammatory bowel disease. The drug showed \"best-in-class potential\" in midstage testing.",
+        "url": "https://www.investors.com/news/technology/teva-stock-sanofi-stock-inflammatory-bowel-disease-drug/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2022/07/Stock-tevapharmaceuticals-01-adobe.jpg",
+        "publishedAt": "2024-12-17T21:10:00Z",
+        "content": "Teva stock catapulted Tuesday, hitting a six-year high, after its inflammatory bowel disease treatment showed \"best-in-class potential\" in a Phase 2 study.\r\nXNOW PLAYINGHow To Buy Stocks: 4 Factors F… [+3935 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Associated Press Finance",
+        "title": "Amazon investing another $10 billion in Ohio-based data centers - Yahoo Finance",
+        "description": "Amazon Web Services will invest another $10 billion to bolster its data center infrastructure in Ohio.  The company and Republican Gov. Mike DeWine announced...",
+        "url": "https://finance.yahoo.com/news/amazon-investing-another-10-billion-210616057.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CcrXX.W3LtrbiThdsD5DNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/746c82447eafa7ceb1f278fec13f651b",
+        "publishedAt": "2024-12-17T21:06:16Z",
+        "content": "COLUMBUS, Ohio (AP) Amazon Web Services will invest another $10 billion to bolster its data center infrastructure in Ohio.\r\nThe company and Republican Gov. Mike DeWine announced the plan Monday. The … [+947 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Barron's"
+        },
+        "author": "Barron's",
+        "title": "Energy Stocks Are Dropping Because China’s Slowdown Is Real - Barron's",
+        "description": null,
+        "url": "https://www.barrons.com/articles/energy-stocks-china-oil-price-85285490",
+        "urlToImage": null,
+        "publishedAt": "2024-12-17T20:42:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-12-17T20:33:22Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Teslarati"
+        },
+        "author": "Joey Klender",
+        "title": "Jim Cramer makes interesting claim about Tesla’s recent stock surge - TESLARATI",
+        "description": "Jim Cramer made an interesting claim on an episode of his CNBC show Mad Money by stating that  “everyone should have seen [Tesla’s stock surge] coming.” He also said that the recent rally is “one for the ages,” especially because it accounts for so much of Te…",
+        "url": "https://www.teslarati.com/jim-cramer-interesting-claim-tesla-tsla-stock-surge/",
+        "urlToImage": "https://www.teslarati.com/wp-content/uploads/2020/01/tsla-jim-cramer-cnbc.jpg",
+        "publishedAt": "2024-12-17T20:22:40Z",
+        "content": "Jim Cramer made an interesting claim on an episode of his CNBC show Mad Money by stating that  “everyone should have seen [Tesla’s stock surge] coming.”\r\nHe also said that the recent rally is “one fo… [+2020 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BleepingComputer"
+        },
+        "author": "Sergiu Gatlan",
+        "title": "CISA orders federal agencies to secure Microsoft 365 tenants - BleepingComputer",
+        "description": "​CISA has issued this year's first binding operational directive (BOD 25-01), ordering federal civilian agencies to secure their Microsoft 365 cloud environments by implementing a list of required configuration baselines.",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-secure-microsoft-365-tenants/",
+        "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/01/17/CISA.jpg",
+        "publishedAt": "2024-12-17T20:01:13Z",
+        "content": "​CISA has issued this year's first binding operational directive (BOD 25-01), ordering federal civilian agencies to secure their cloud environments by implementing a list of required secure configura… [+2933 chars]"
+      }
+    ]
+  }

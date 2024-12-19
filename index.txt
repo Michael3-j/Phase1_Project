@@ -1,0 +1,16 @@
+MyApi = d5bd1003e8d74022841388bc302fe34b.
+url ="https://newsapi.org/v2/top-headlines"
+      
+   html,sketch
+1.)container
+2.)search box
+3.)reviews
+
+     js, sketch
+1.)DOM elements
+2.)Handle search form submission
+3.)Fetch news articles
+4.)Render articles to the page
+5.)Handle reviews submission
+
+

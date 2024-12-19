@@ -3,38 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alpha Headline</title>
+    <title>Alpha News Hub</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="logo">
+        <img src="https://i.pinimg.com/originals/26/91/f2/2691f2fa1a0f078f5f274edf7fea6763.png" width="275px" />
+    </div>
+  <h1>ALPHA NEWS HEADLINES</h1>
+     <div class="container" >
+      <form id="search_box">
+         <input id="search" type="text" name="search" placeholder="Search news">
+         <input class="search_bttn" type="submit"  name="submit">
+      </form>
+     <div class="articleCont">
+        <ul class="articleLst">   
+        </ul>
+     </div>
 
-<h1>ALPHA NEWS HEADLINES</h1>
-<div class="container" >
-    <form class="search_box">
-<input id="search" type="search" value="search">
-<button class="search_bttn">search</button>
-    </form>
 <main>
     <div class="Article_Dasc">
-        <h2>Article Name Goes Here</h2>
-        <img id='image' src="">
-         <form class="article">
-            <p class="article">
-               article goes here
-            </p>
-
+        <h2 id="article_heading"></h2>
+         <form class="article_frm">
+             <p2 class="description">
+             </p2>
+             <p3 class="content">
+             </p3>
           </form>
-        
-
-    <div class="reviews">
-        <h3 id="reviewsHd">Leave a Review</h3>
-        <form class="review-form">
-          <textarea id="reviews"></textarea>
-          <input id='submit' type="submit" value="Submit">
-        </form>
-        </div>
+         <div class="reviews">
+            <h3 id="reviewsHd">Leave a Review</h3>
+                <form class="review-form">
+                    <textarea id="reviews" placeholder="Add reviews and comments here"></textarea>
+                    <button id='reviewBtn' type="submit" value="Submit">Submit</button>
+                    <p id="thnkyouforFB">Thank you for your FeedBack<br>We value your FeedBack.</p>
+                    <ul id="reviewId">
+                    <li class="review"></li>
+                    </ul>
+               </form>
+    </div>
  </main>
 </div>
+<p4 id="NB">The Content Provided Above Are From Different Sources. </p4>
 
     <script src="index.js"></script>
 </body>
