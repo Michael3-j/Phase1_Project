@@ -1,5 +1,4 @@
-## I have created a news webapplication using my API key,the project siply allows the user tho access news articles that are provided in  the 
-## url that i used.
+## I have created a news webapplication using my API key,the project simply allows the user tho access news articles that are provided in  the url that i used.
 
 ## TXT file
 It contains a sketch of what i should achive at the end.
