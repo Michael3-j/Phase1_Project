@@ -32,9 +32,9 @@ const fetchNews = async (searchTerm) => {
 
 // Render articles to the page
 const renderArticles = (articles) => {
-    articleList.innerHTML = ""; // Clear previous articles
+    articleList.innerHTML = ""; 
     if (articles.length === 0) {
-        articleList.innerHTML = "<li>No articles found.</li>";
+        articleList.innerHTML = "<li>The article is not available for now.</li>";
         return;
     }
 
@@ -60,7 +60,7 @@ submitBtn.addEventListener("click", (e) => {
         const reviewItem = document.createElement("li");
         reviewItem.textContent = reviewText;
         reviewDisplay.appendChild(reviewItem);
-        reviewInput.value = ""; // Clear the input field
+        reviewInput.value = "";
         alert("The Review added Successfuly!");
         
     }
